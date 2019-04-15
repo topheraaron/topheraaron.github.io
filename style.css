@@ -40,6 +40,9 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 
 .btn-xl {
