@@ -1,0 +1,47 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("/Users/christopherarias/Desktop/Landing_Page/header_bg.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  padding-top: 300px;
+  margin-left: 100px;
+}
+h2 {
+   color: #000000;
+   font-weight: 800;
+   font-size: 50px;
+ }
+
+p {
+  font-size: 22px;
+  font-weight: 200;
+  margin-top: -20px;
+}
+
+.btn-primary {
+  background-color: #1d809f;
+  border: #1d809f;
+}
+
+.btn-primary:hover {
+  background-color: #076989;
+}
